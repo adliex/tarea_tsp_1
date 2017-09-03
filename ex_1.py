@@ -13,7 +13,7 @@ for y in range(0,4):
  	for z in range(0,4):
         	matriz[y][0]+=matrizf[y][z]*x2[z][0]
 
-print matriz
+print ("MATRIZ TRANSPUESTA", matriz)
 
 
 
